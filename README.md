@@ -13,7 +13,7 @@
 5 - happiness,<br>
 6- surprise<br>
 
-
+---
 Загрузить архив _all.zip_ с фотографиями можно по данной ссылке. После загрузки и разархивации папку _all_ надо положить в репозитоий проекта, где уже лежат файлы _emotion_class.ipynb_ и _label_dataset.csv_ <br>
 
 <a href="https://drive.google.com/file/d/1fdDs9fHt79Lkoo-HRzIsMdwugeQ96Nwg/view?usp=share_link" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_317646.png" alt="kolesnokov__dima" height="50" width="50" /> </a> 
