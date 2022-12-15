@@ -22,3 +22,8 @@ _emotion_class.html_ добавлен в репозиторий для возм�
 
 <a href="https://drive.google.com/file/d/1fdDs9fHt79Lkoo-HRzIsMdwugeQ96Nwg/view?usp=share_link" target="blank"><img align="center" src="http://cdn.onlinewebfonts.com/svg/img_317646.png" alt="kolesnokov__dima" height="50" width="50" /> </a> 
 <br><br>
+---
+> Решение данного проекта представлено в формате двух документов:
+>1. Бинарная классификация - [emotion_class_binary.ipynb](https://github.com/Koldim2001/Emotion_classifier/blob/main/emotion_class_binary.ipynb)
+>2. Многоклассовая классификация - [emotion_class_multy.ipynb](https://github.com/Koldim2001/Emotion_classifier/blob/main/emotion_class_multy.ipynb)
+>
